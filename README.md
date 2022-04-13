@@ -1,7 +1,8 @@
-### Hi everyone! 
-My name is Andrey. I am an everyday developer from Russia. My main stack is Laravel and Vue.
-Sometimes I create my own open source packages.
+<h1 align="center">Hi everyone! I'm Andrey </h1>
 
+<p align="center">
+I am an everyday developer from Russia. My main stack is Laravel and Vue. The last 4 years I’ve been doing automating banking processes (lending, scoring clients, document management and much more). When I have free time, I create my own open source packages. 
+  </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yzen-dev&theme=gruvbox&hide_border=true&background=00000000" alt="yzen.dev"/>
