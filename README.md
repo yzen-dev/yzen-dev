@@ -1,7 +1,8 @@
 <h1 align="center">Hi everyone! I'm Andrey </h1>
 
 <p align="center">
-I am an everyday developer from Russia. My main stack is Laravel and Vue. The last 4 years I’ve been doing automating banking processes (lending, scoring clients, document management and much more). When I have free time, I create my own open source packages. 
+PHP developer.
+https://yzen.dev/
   </p>
 
 <p align="center">
